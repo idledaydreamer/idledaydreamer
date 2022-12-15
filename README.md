@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<!-- 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20IDLEDAY%20%20&fontAlign=22&fontSize=30&textBg=true&desc=완주를%20향하여%20나아가는%20백엔드%20개발자%20%27정예현%27입니다&descAlign=65&descAlignY=50&animation=twinkling) -->
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20IDLEDAY%20%20&fontAlign=22&fontSize=30&textBg=true&desc=완주를%20향하여%20나아가는%20백엔드%20개발자%20%27정예현%27입니다&descAlign=65&descAlignY=50&animation=twinkling)
